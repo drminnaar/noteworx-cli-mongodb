@@ -1,0 +1,28 @@
+{
+  "name": "noteworx-cli-mongodb",
+  "version": "1.0.0",
+  "description": "A basic note application that uses a CLI (Command Line Interface) frontend to capture and manage notes, and mongodb to store notes.",
+  "main": "app.js",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "start": "node app --help",
+    "test": "echo \"No tests available\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drminnaar/noteworx-cli-mongodb.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drminnaar/noteworx-cli-mongodb/issues"
+  },
+  "homepage": "https://github.com/drminnaar/noteworx-cli-mongodb#readme",
+  "dependencies": {
+    "mongodb": "^2.2.33",
+    "yargs": "^10.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^4.12.1"
+  }
+}

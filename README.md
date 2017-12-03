@@ -16,7 +16,7 @@ A basic note application that uses a CLI (Command Line Interface) frontend to ca
 
 ## High Level Design
 
-![noteworx-cli-mongodb](https://user-images.githubusercontent.com/33935506/33523758-06f85532-d817-11e7-8901-158a08f67b9c.PNG)
+![noteworx-cli-mongodb](https://user-images.githubusercontent.com/33935506/33524904-a288dede-d82d-11e7-8903-35d24a1bed08.PNG)
 
 ---
 
@@ -32,6 +32,7 @@ A basic note application that uses a CLI (Command Line Interface) frontend to ca
 ## Related Projects
 
 * [noteworx-cli-fs]
+* [noteworx-cli-mongoose]
 
 ---
 
@@ -266,3 +267,4 @@ I use [SemVer](http://semver.org/) for versioning. For the versions available, s
 * **Douglas Minnaar** - *Initial work* - [drminnaar](https://github.com/drminnaar)
 
 [noteworx-cli-fs]: https://github.com/drminnaar/noteworx-cli-fs
+[noteworx-cli-mongoose]: https://github.com/drminnaar/noteworx-cli-mongoose
